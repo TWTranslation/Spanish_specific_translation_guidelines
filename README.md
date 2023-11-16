@@ -26,7 +26,6 @@ El traductor debe primero leer y entender lo que va a traducir antes de hacerlo 
 En programas y aplicaciones se recomienda utilizarlos antes para determinar el uso de los textos en el contexto del programa. 
 Por ejemplo, la cadena Save en un programa podría traducirse por Salvar si se trata de un juego y es una operación para salvar a un compañero de un peligro o Guardar (más común) si se trata de guardar los resultados del programa a un archivo. 
 Una traducción de calidad es aquella que ofrece al lector el mismo significado que el término original aunque no necesariamente con las mismas palabras o frases.
-- Ao agregar novo conteúdo de tradução, procure manter o estilo utilizado em traduções anteriores. Caso tenha alguma sugestão de mudança, por favor crie uma issue neste repositório ou envie um pull request.
 
 ### Normas
 
