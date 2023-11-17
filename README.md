@@ -57,7 +57,7 @@ En español apenas se usan y deberían sustituirse por un estilo directo o por f
 Se debe evitar su traducción directa.
 Por ejemplo, «Many users are being affected» debería traducirse como «Se está afectando a muchos usuarios» y no como «Muchos usuarios están viéndose afectados».
 * Muchas palabras terminadas en «ing» no son gerundios, aunque lo parezcan. «Installing from NFS» es «Instalación desde NFS», no «Instalando desde NFS». 
-Lo mismo con Installing from Hard Disk, Installing Base from Floppies o Installing from a DOS partition. 
+Lo mismo con «Installing from Hard Disk», «Installing Base from Floppies» o «Installing from a DOS partition». 
 El gerundio en inglés es un sustantivo (por eso Saving private Ryan es Salvar al soldado Ryan).
 
 #### Otras normas
