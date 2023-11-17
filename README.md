@@ -8,7 +8,7 @@
 
 Some inspiration for these guidelines comes from the collaborative translations of [R4DS](https://github.com/cienciadedatos/documentacion-traduccion-r4ds) by [@cienciadedatos](https://github.com/cienciadedatos), [Teaching Tech Together](https://github.com/gvwilson/teachtogether.tech/blob/master/es/README.md) to Spanish, the [R Contributors translations working group](https://contributor.r-project.org/translations/) and the [R OpenSci translation project](https://translationguide.ropensci.org/).
 
-*switch to spanish but feel free to enter in contact in English :)* 
+*switch to Spanish but feel free to enter in contact in English :)* 
 
 ## Código de conducta
 
