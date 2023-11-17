@@ -58,12 +58,12 @@ Se debe evitar su traducción directa.
 Por ejemplo, «Many users are being affected» debería traducirse como «Se está afectando a muchos usuarios» y no como «Muchos usuarios están viéndose afectados».
 * Muchas palabras terminadas en «ing» no son gerundios, aunque lo parezcan. «Installing from NFS» es «Instalación desde NFS», no «Instalando desde NFS». 
 Lo mismo con «Installing from Hard Disk», «Installing Base from Floppies» o «Installing from a DOS partition». 
-El gerundio en inglés es un sustantivo (por eso Saving private Ryan es Salvar al soldado Ryan).
+El gerundio en inglés es un sustantivo (por eso «Saving private Ryan» es «Salvar al soldado Ryan»).
 
 #### Otras normas
 * Los **pronombres posesivos** en inglés no se tienen necesariamente que traducir por el correspondiente pronombre posesivo en español. 
-Se entiende, pero un hispanoparlante no hablaría así, por ejemplo, en lugar de tu sistema para traducir your system debería utilizarse el sistema. 
-Sólo se debería poner tu si el propietario del sistema es relevante en este caso. La película de Amenábar Abre los ojos se traduciría al inglés a Open your eyes pero en español no se diría Abre tus ojos.
+Se entiende, pero un hispanoparlante no hablaría así, por ejemplo, en lugar de «tu sistema» para traducir «your system» debería utilizarse «el sistema». 
+Sólo se debería poner tu si el propietario del sistema es relevante en este caso. La película de Amenábar «Abre los ojos» se traduciría al inglés a «Open your eyes» pero en español no se diría «Abre tus ojos».
 * Cuidado con palabras que se escriben parecido pero que no significan lo mismo (**falsos amigos**), que no tienen el mismo género, o que habitualmente se traducen a anglicismos que no existen, algunos ejemplos:
   - command: orden, comando no es correcto.
   - actual: real o verdadero, actual no es correcto.
@@ -83,22 +83,22 @@ Si se requieren comillas adicionales dentro de un contexto previamente entrecomi
   - Ej: If you select "Choose from the list", then ... debería traducirse como: Si usted selecciona «Escoger de la lista», entonces.... Más información en [aquí](https://www.rae.es/dpd/comillas) (RAE)
 * Palabras compuestas: 
 En inglés se usa comúnmente el guión (-) para componer palabras a partir de otras más simples. 
-En español el guión separa más que junta. Palabras como sub-architecture o best-effort han de traducirse de forma que o bien se junten las palabras (subarquitectura), según las normas de estilo del español, o bien se realice una traducción más libre de la palabra, con por ejemplo una expresión (lo mejor posible). 
+En español el guión separa más que junta. Palabras como «sub-architecture» o «best-effort» han de traducirse de forma que o bien se junten las palabras (subarquitectura), según las normas de estilo del español, o bien se realice una traducción más libre de la palabra, con por ejemplo una expresión (lo mejor posible). 
 También es posible separar los términos con un espacio: ex presidente. 
 Si se piensa que se puede perder significado al traducir la palabra, puede colocarse después entrecomillada aunque sólo se hará esto si la palabra técnica no queda clara o si el término se utiliza en otros contextos (por ejemplo, programas o etiquetas de control) sin traducir. 
-  - Ej: This is done at best-effort podría traducirse por Ello se hace lo mejor posible, The minor-release field podría traducirse por El campo de distribución menor («minor-release», N. del T.).
+  - Ej: «This is done at best-effort» podría traducirse por «Ello se hace lo mejor posible», «The minor-release field» podría traducirse por «El campo de distribución menor ("minor-release", N. del T.)».
 * Números: se utilizará el punto como separador de miles y la coma como el separador de decimales (al revés que en inglés) que es el formato mayoritario utilizado por los usuarios hispanoparlantes.
 
 #### Términos que no deben traducirse
 
 Los términos que sean intraducibles y deban dejarse en inglés se marcaran como tales. 
-Esto significa, habitualmente, que se coloca el término  traducido en español y la traducción entre paréntesis y en cursiva. 
+Esto significa, habitualmente, que se coloca el término traducido en español y la traducción entre paréntesis y en cursiva. 
 Posteriormente el término se seguirá usando con doble comillas en el texto. Esta se hará por ejemplo: pipeline (tubería), deployment (despliegue). 
 No se deberá, sin embargo, abusar de esto y poner(put) cada palabra(word) con un sinónimo(synonymous) entre paréntesis, ya que es francamente(frankly) ridículo(ridiculous).
 
 ## Referencias externas
 
-Estos son los recursos que cualquier colaborador con las traducciones de The Turing Way debe conocer. Se recomienda leer primero los más específicos a The Turing Way y luego los más generales, para ir profundizando en los conocimientos y las herramientas.
+Estos son los recursos que cualquier colaborador con las traducciones de _The Turing Way_ debe conocer. Se recomienda leer primero los más específicos a _The Turing Way_ y luego los más generales, para ir profundizando en los conocimientos y las herramientas.
 * [Diccionario de la Real Academia de la Lengua Española](https://dle.rae.es/)
 * [Manual de Ortografía de la Real Academia de la Lengua Española (PDF)](https://www.rae.es/sites/default/files/1ortografia_espanola_2010.pdf)
 
@@ -111,5 +111,5 @@ Estos son los recursos que cualquier colaborador con las traducciones de The Tur
 
 El proyecto no ha desarrollado su propia guía de estilo, sólo se han enumerado algunas de las normas básicas. Se pueden consultar y utilizar las siguientes guías de estilo:
 * Guía de estilo de Insflug.
-* Guía de estilo de localización de Programas (traducción al español de la realizada por SoftCatalá), Marzo 2004. [ Nota: No disponible por cambios en los servidores de Hispalinux, esperemos que este arreglado pronto ]
+* Guía de estilo de localización de Programas (traducción al español de la realizada por SoftCatalá), Marzo 2004. [Nota: No disponible por cambios en los servidores de Hispalinux, esperemos que este arreglado pronto]
 * [Normas de traducción](https://es.l10n.kde.org/normas_generales.php) del grupo de internacionalización de KDE al español.
