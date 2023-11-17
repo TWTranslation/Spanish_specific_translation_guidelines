@@ -80,7 +80,7 @@ Sólo se debería poner tu si el propietario del sistema es relevante en este ca
 En español han de sustituirse por las comillas tipográficas latinas «». 
 Si se requieren comillas adicionales dentro de un contexto previamente entrecomillado con comillas latinas, se utilizarán "", y después ''. 
   - Ej: «El cocinero dijo: "¿Cuándo terminaré de freír las 'croquetas'?"». 
-  - Ej: If you select "Choose from the list", then ... debería traducirse como: Si usted selecciona «Escoger de la lista», entonces.... Más información en [aquí](https://www.rae.es/dpd/comillas) (RAE)
+  - Ej: If you select "Choose from the list", then ... debería traducirse como: Si usted selecciona «Escoger de la lista», entonces.... Más información [aquí](https://www.rae.es/dpd/comillas) (RAE)
 * Palabras compuestas: 
 En inglés se usa comúnmente el guión (-) para componer palabras a partir de otras más simples. 
 En español el guión separa más que junta. Palabras como «sub-architecture» o «best-effort» han de traducirse de forma que o bien se junten las palabras (subarquitectura), según las normas de estilo del español, o bien se realice una traducción más libre de la palabra, con por ejemplo una expresión (lo mejor posible). 
