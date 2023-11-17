@@ -24,7 +24,7 @@ Se recomienda su uso por todos los traductores que forman parte del esfuerzo de 
 En general, se debe evitar la traducción directa del inglés. 
 El traductor debe primero leer y entender lo que va a traducir antes de hacerlo y, en muchos casos, es mejor traducir con las palabras que uno utilizaría, y no necesariamente con las mismas que utilizó el que lo escribió en inglés. 
 En programas y aplicaciones se recomienda utilizarlos antes para determinar el uso de los textos en el contexto del programa. 
-Por ejemplo, la cadena Save en un programa podría traducirse por Salvar si se trata de un juego y es una operación para salvar a un compañero de un peligro o Guardar (más común) si se trata de guardar los resultados del programa a un archivo. 
+Por ejemplo, la cadena «save» en un programa podría traducirse por «salvar» si se trata de un juego y es una operación para salvar a un compañero de un peligro o «guardar» (más común) si se trata de guardar los resultados del programa a un archivo. 
 Una traducción de calidad es aquella que ofrece al lector el mismo significado que el término original aunque no necesariamente con las mismas palabras o frases.
 
 ### Normas
