@@ -34,7 +34,7 @@ A continuación se listan una serie de normas a tener en cuenta a la hora de rea
 #### Tratamiento al lector
 
 Queremos que The Turing Way se sienta como un documento informal y amigable, por lo que excepto casos contados, ha de tratarse al lector siempre de tú. 
-Por ello se traducirá you por “tú”, no por usted. 
+Por ello se traducirá «you» por «tú», no por «usted». 
 Esta fórmula se utiliza para dar un trato informal al lector.
 
 #### Género gramatical
