@@ -52,8 +52,8 @@ Por ejemplo: the users debe traducirse por “los usuarios y las usuarias” o a
 
 #### Verbos
 
-* Pasivas: En inglés es muy típico el uso de pasivas. 
-En español apenas se usan y deberían sustituirse por un estilo directo o por formas reflexivas o pronominales. 
+* Voz pasiva: En inglés es muy típico su uso. 
+En español apenas se usa y debería sustituirse por un estilo directo o por formas reflexivas o pronominales. 
 Se debe evitar su traducción directa.
 Por ejemplo, «Many users are being affected» debería traducirse como «Se está afectando a muchos usuarios» y no como «Muchos usuarios están viéndose afectados».
 * Muchas palabras terminadas en «ing» no son gerundios, aunque lo parezcan. «Installing from NFS» es «Instalación desde NFS», no «Instalando desde NFS». 
