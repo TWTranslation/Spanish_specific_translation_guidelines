@@ -44,7 +44,7 @@ Por ejemplo: the users debe traducirse por “los usuarios y las usuarias” o a
 
 #### Mayúsculas y minúsculas
 
-* En español se escribe con mayúsculas sólo la primera letra de los títulos, Our Priorities are Our Users and Free Software debe traducirse por "Nuestras prioridades son nuestros usuarios y el software libre".
+* En español se escribe con mayúsculas sólo la primera letra de los títulos, «Our Priorities are Our Users and Free Software» debe traducirse por «Nuestras prioridades son nuestros usuarios y el software libre».
 * Las mayúsculas deben ir acentuadas (la falsa idea de que no es necesario o es opcional viene del mundo de las máquinas de escribir)
 * Los meses y los días de la semana en español se escriben en minúsculas.
 * Tampoco se ponen con mayúsculas los nombres de idiomas.
